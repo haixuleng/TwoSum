@@ -1,9 +1,9 @@
 # TwoSum
 The goal of this problem is to implement a variant of the 2-SUM algorithm covered in this week's lectures.
 #
-The file contains 1 million integers, both positive and negative (there might be some repetitions!).This is your array of integers, with the i^i
+The file contains 1 million integers, both positive and negative (there might be some repetitions!).This is your array of integers, with the i
 th
-  row of the file specifying the i^i 
+  row of the file specifying the i 
 th
   entry of the array.
 
